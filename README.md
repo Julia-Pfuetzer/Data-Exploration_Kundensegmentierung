@@ -19,6 +19,7 @@ Nachdem die Daten bereinigt wurden, wurden Zielgruppen definiert, um mit Werbung
 
 ## Gruppenmitglieder:
 Mya Jahic, Hannah Laier, Julia Pfützer
+1010595, 2774085, 7411297
 
 ## Ausführung des Quellcodes	
 Ausführung des Quellcodes
